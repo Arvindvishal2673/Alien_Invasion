@@ -42,8 +42,8 @@ To run this game on your local machine, you'll need to have Python and the Pygam
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone <https://github.com/Arvindvishal2673/Alien_Invasion.git>
+    cd <Alien_Invasion>
     ```
 
 2.  **Install Pygame:**
